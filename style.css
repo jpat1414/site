@@ -1,5 +1,5 @@
 body {
-    background-color: #81659c;
+    background-color: #b18ed1;
     color: white;
     font-family: Arial, sans-serif;
     font-size: 16px;
@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 300vh;
 }
 
 .container {
