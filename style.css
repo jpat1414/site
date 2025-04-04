@@ -1,0 +1,28 @@
+body {
+    background-color: #81659c;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    max-width: 900px;
+}
+
+.column {
+    width: 30%;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+}
