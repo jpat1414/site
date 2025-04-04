@@ -18,6 +18,10 @@ body {
     max-width: 900px;
 }
 
+.column {
+    width: 30%;
+}
+
 a {
     color: white;
     text-decoration: underline;
